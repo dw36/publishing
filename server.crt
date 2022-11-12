@@ -1,0 +1,103 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4096 (0x1000)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=www.modelCA.com, O=Model CA LTD., C=US
+        Validity
+            Not Before: Nov 12 20:18:43 2022 GMT
+            Not After : Nov  9 20:18:43 2032 GMT
+        Subject: C=US, O=myDomain Inc., CN=www.chrisIsNice.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2046 bit)
+                Modulus:
+                    3c:b1:72:5e:0e:4e:08:ab:15:d2:fc:37:9c:01:e7:
+                    1f:9b:e3:65:b9:f6:6f:68:00:a4:b9:54:3d:83:30:
+                    2d:54:ac:77:45:65:49:2c:44:ab:f6:df:7d:cf:34:
+                    4a:a6:49:ff:b3:9c:2c:78:b9:12:b4:d8:40:69:37:
+                    5f:8b:e9:9a:88:3f:69:05:7c:a3:d2:93:77:c7:53:
+                    07:57:48:7c:d7:33:7c:94:ee:3a:6b:a3:e8:23:72:
+                    2b:85:d9:7f:f5:c3:01:99:84:4c:e1:64:51:66:dd:
+                    21:4d:ad:ea:28:8f:40:e2:60:f2:8a:ca:7b:e2:ca:
+                    80:42:21:04:fd:4d:c4:2b:42:16:27:d8:05:9a:37:
+                    53:26:22:2e:dc:8a:d4:49:05:ea:4a:79:59:21:fd:
+                    b6:75:53:21:23:3a:c1:0b:5d:75:7f:69:f7:91:5b:
+                    0a:2d:c2:3d:9a:fc:99:89:6c:9d:54:58:6d:4c:36:
+                    ec:2f:28:a5:a9:37:80:a2:27:b9:80:81:4d:a2:13:
+                    72:49:5f:62:cc:6a:76:33:c5:58:fe:6e:98:e6:3d:
+                    07:e5:17:fb:0e:a9:8b:c8:ee:91:98:0a:ca:6c:36:
+                    03:eb:76:f0:f5:7d:ee:84:58:9c:cf:54:f9:13:e5:
+                    7a:72:c6:17:6f:c4:83:3e:2d:65:d8:58:40:9d:11:
+                    eb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                29:44:74:C0:22:92:23:10:2F:FA:55:44:8D:B2:25:FF:F5:63:B2:AA
+            X509v3 Authority Key Identifier: 
+                keyid:67:4D:80:F0:27:AB:CC:47:53:8D:53:18:30:AE:CF:BB:E4:CC:D4:D8
+
+            X509v3 Subject Alternative Name: 
+                DNS:www.chrisIsNice.com, DNS:www.chrisIsNice2.com, DNS:www.chrisIsNice3.com
+    Signature Algorithm: sha256WithRSAEncryption
+         18:d7:4b:f2:09:fe:f9:1e:28:d7:0b:20:d6:98:23:59:3d:4c:
+         ba:4a:73:f3:bd:66:5d:97:35:47:f7:d2:68:f7:75:68:01:36:
+         b1:4d:fc:8a:00:63:8d:6e:eb:17:ef:66:7c:f5:d6:e5:99:28:
+         7f:4f:e7:b7:f8:36:78:d8:30:20:8a:cb:bf:94:e2:ad:b9:ec:
+         b9:d9:e3:ae:14:b5:9d:e3:c1:17:d6:b3:87:c8:50:3c:f6:5f:
+         5b:77:61:60:83:b4:1d:d5:ea:d5:dd:82:25:28:6d:da:0c:6a:
+         6c:ad:ac:6f:79:ea:bd:5d:fe:aa:3b:93:49:9c:a6:b3:b7:36:
+         80:86:2e:d6:04:4b:af:40:d3:fb:29:01:fa:ae:23:f9:bb:40:
+         47:d9:c8:1b:22:79:23:19:3b:58:2b:57:22:81:fc:4a:cd:a4:
+         57:f6:7a:4b:4b:88:e7:af:38:ec:3c:bd:bb:e3:5d:f1:28:da:
+         fb:c2:6b:4a:b3:36:57:64:d5:54:23:7d:6f:14:4a:f0:f6:f4:
+         df:6c:2a:bd:62:e2:b5:4a:f6:15:e0:76:e3:1e:4c:32:d3:ac:
+         57:b6:77:9f:7e:0a:bc:e7:b8:14:a9:3c:d9:41:37:b8:fa:2c:
+         7f:d7:8a:87:4d:68:27:96:88:f2:b1:90:fb:0f:54:cb:e3:f4:
+         a1:70:f5:d7:af:72:26:e4:ff:db:da:28:71:ae:39:3e:68:84:
+         37:ba:7a:94:4c:91:c6:e3:d5:b4:11:0b:e2:7c:56:7b:73:07:
+         5e:39:d8:b0:a9:b6:b8:9b:f8:2a:00:87:04:78:e4:ed:dc:fe:
+         74:bf:58:45:0b:8f:a0:9e:dd:2c:9f:a9:d0:96:b1:fe:63:73:
+         b4:b4:1e:22:95:cd:fd:1e:bb:5f:69:bb:a4:b9:8b:fc:70:c7:
+         69:ec:cf:75:c7:9b:9a:fb:b1:cb:03:fd:b0:ec:2a:14:3c:aa:
+         48:67:72:c2:d1:a5:e4:22:be:9e:40:31:e8:00:63:e4:5a:c0:
+         2f:c4:6f:54:b4:f0:53:42:02:b7:6d:56:1f:c4:51:b2:e6:47:
+         29:00:49:28:a5:98:8d:6e:4d:0d:d9:31:93:d0:fa:a5:7e:c4:
+         37:b5:e9:c6:71:95:61:9a:3d:7b:36:0a:49:42:67:51:b5:b4:
+         53:dc:7e:42:34:0b:ba:0c:8e:09:68:30:0b:6e:ef:ef:5f:12:
+         2c:82:db:9f:c5:cd:99:99:ea:e5:73:d3:e1:55:6b:14:6c:4e:
+         83:78:63:f5:66:b6:9f:69:de:e6:24:91:2c:25:82:16:82:2d:
+         b2:35:35:88:5c:c0:af:15:22:14:ec:e8:b7:18:1d:8f:63:c2:
+         63:c0:5d:3e:08:cd:9d:af
+-----BEGIN CERTIFICATE-----
+MIIExjCCAq6gAwIBAgICEAAwDQYJKoZIhvcNAQELBQAwPzEYMBYGA1UEAwwPd3d3
+Lm1vZGVsQ0EuY29tMRYwFAYDVQQKDA1Nb2RlbCBDQSBMVEQuMQswCQYDVQQGEwJV
+UzAeFw0yMjExMTIyMDE4NDNaFw0zMjExMDkyMDE4NDNaMEMxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKDA1teURvbWFpbiBJbmMuMRwwGgYDVQQDDBN3d3cuY2hyaXNJc05p
+Y2UuY29tMIIBITANBgkqhkiG9w0BAQEFAAOCAQ4AMIIBCQKCAQA8sXJeDk4IqxXS
+/DecAecfm+NlufZvaACkuVQ9gzAtVKx3RWVJLESr9t99zzRKpkn/s5wseLkStNhA
+aTdfi+maiD9pBXyj0pN3x1MHV0h81zN8lO46a6PoI3Irhdl/9cMBmYRM4WRRZt0h
+Ta3qKI9A4mDyisp74sqAQiEE/U3EK0IWJ9gFmjdTJiIu3IrUSQXqSnlZIf22dVMh
+IzrBC111f2n3kVsKLcI9mvyZiWydVFhtTDbsLyilqTeAoie5gIFNohNySV9izGp2
+M8VY/m6Y5j0H5Rf7DqmLyO6RmArKbDYD63bw9X3uhFicz1T5E+V6csYXb8SDPi1l
+2FhAnRHrAgMBAAGjgcgwgcUwCQYDVR0TBAIwADAsBglghkgBhvhCAQ0EHxYdT3Bl
+blNTTCBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFClEdMAikiMQL/pV
+RI2yJf/1Y7KqMB8GA1UdIwQYMBaAFGdNgPAnq8xHU41TGDCuz7vkzNTYMEoGA1Ud
+EQRDMEGCE3d3dy5jaHJpc0lzTmljZS5jb22CFHd3dy5jaHJpc0lzTmljZTIuY29t
+ghR3d3cuY2hyaXNJc05pY2UzLmNvbTANBgkqhkiG9w0BAQsFAAOCAgEAGNdL8gn+
++R4o1wsg1pgjWT1Mukpz871mXZc1R/fSaPd1aAE2sU38igBjjW7rF+9mfPXW5Zko
+f0/nt/g2eNgwIIrLv5TirbnsudnjrhS1nePBF9azh8hQPPZfW3dhYIO0HdXq1d2C
+JSht2gxqbK2sb3nqvV3+qjuTSZyms7c2gIYu1gRLr0DT+ykB+q4j+btAR9nIGyJ5
+Ixk7WCtXIoH8Ss2kV/Z6S0uI56847Dy9u+Nd8Sja+8JrSrM2V2TVVCN9bxRK8Pb0
+32wqvWLitUr2FeB24x5MMtOsV7Z3n34KvOe4FKk82UE3uPosf9eKh01oJ5aI8rGQ
++w9Uy+P0oXD1169yJuT/29ooca45PmiEN7p6lEyRxuPVtBEL4nxWe3MHXjnYsKm2
+uJv4KgCHBHjk7dz+dL9YRQuPoJ7dLJ+p0Jax/mNztLQeIpXN/R67X2m7pLmL/HDH
+aezPdcebmvuxywP9sOwqFDyqSGdywtGl5CK+nkAx6ABj5FrAL8RvVLTwU0ICt21W
+H8RRsuZHKQBJKKWYjW5NDdkxk9D6pX7EN7XpxnGVYZo9ezYKSUJnUbW0U9x+QjQL
+ugyOCWgwC27v718SLILbn8XNmZnq5XPT4VVrFGxOg3hj9Wa2n2ne5iSRLCWCFoIt
+sjU1iFzArxUiFOzotxgdj2PCY8BdPgjNna8=
+-----END CERTIFICATE-----
